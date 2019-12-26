@@ -40,7 +40,8 @@ NOTE: For Completed projects, the Data Steward will often perform the actions as
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x25A1; Create the project metadata record</td>
+      <td style="text-align:left">&#x25A1; <a href="https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/project-entry-guidance">Create the project metadata record</a> 
+      </td>
       <td style="text-align:left">Project Manager</td>
       <td style="text-align:left">Data Steward</td>
     </tr>
@@ -51,8 +52,8 @@ NOTE: For Completed projects, the Data Steward will often perform the actions as
       <td style="text-align:left">Data Steward</td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x25A1; Write product metadata records and export records to the incoming
-        folder</td>
+      <td style="text-align:left">&#x25A1; <a href="https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/product-entry-guidance">Write product metadata records and export records to the incoming folder</a>
+      </td>
       <td style="text-align:left">Data Originator</td>
       <td style="text-align:left">Data Steward</td>
     </tr>
